@@ -1,7 +1,15 @@
 {
     "alternatives": [
       {
-        "main": "Amplitude",
+        "main": "Teste",
+        "alts": [
+          {
+            "name": "PostHog",
+            "deploy": "https://github.com/PostHog/posthog/wiki/Deployment",
+            "site": "https://posthog.com/",
+            "svg": "https://posthog.com/wp-content/uploads/2020/02/Group-10.png"
+          }
+        ],
         "id": "jvridinciu",
         "svg": "https://www.vectorlogo.zone/logos/amplitude/amplitude-icon.svg",
         "website": "https://amplitude.com/"
